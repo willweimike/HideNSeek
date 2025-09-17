@@ -2,11 +2,7 @@
 
 > # Because I am a student, I could not afford the fee of Apple Developer, so the binary is not code-signed, I am sorry.
 
-<img width="512" height="512" alt="mac512pt2x" src="https://github.com/user-attachments/assets/6a919ae8-a3c9-4736-80e7-492434da7d7f" />
-
-# Live Demo (Combo of HideNSeek + Deeper + Last Window Quits)
-
-https://github.com/user-attachments/assets/c125129a-70d4-43ee-82f3-b9637d771836
+<img width="256" height="256" alt="my-image" src="https://github.com/user-attachments/assets/2f5a5839-679c-47b2-b746-d5a8b8bbe4b4" />
 
 ## Stop fighting with your dock.
 If you're Mac users, you've probably experienced this frustration: you click on an app in your dock expecting to hide it or get it out of your way. However, it just cluttering your workspace.
@@ -30,6 +26,8 @@ Imagine this: You're deep in focus mode with multiple apps open. Your screen is 
 Support MacOS Ventura and later (test on Sonoma)
 
 A quick permission setup (guided by the app itself)
+
+<img width="506" height="395" alt="" src="https://github.com/user-attachments/assets/32a7b44a-85c1-4ef3-bf7c-bc7e12b77071" />
 
 The app requires:
 - **Accessibility permissions** (to monitor dock clicks and control app visibility)
