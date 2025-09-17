@@ -27,8 +27,6 @@ Support MacOS Ventura and later (test on Sonoma)
 
 A quick permission setup (guided by the app itself)
 
-<img width="506" height="395" alt="" src="https://github.com/user-attachments/assets/32a7b44a-85c1-4ef3-bf7c-bc7e12b77071" />
-
 The app requires:
 - **Accessibility permissions** (to monitor dock clicks and control app visibility)
 - **Automation permissions** (to query dock item positions)
