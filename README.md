@@ -2,7 +2,7 @@
 
 ![Latest Release](https://img.shields.io/github/v/release/willweimike/HideNSeek?display_name=tag&label=Latest%20Release&sort=semver) ![Downloads](https://img.shields.io/github/downloads/willweimike/HideNSeek/total?label=Downloads)
 
-> Because I am a student, I could not afford the fee of Apple Developer, so the binary is not code-signed, I am sorry.
+> Because I am a student, I could not afford the fee of Apple Developer, so the binary is not code-signed.
 
 <img width="256" height="256" alt="my-image" src="https://github.com/user-attachments/assets/2f5a5839-679c-47b2-b746-d5a8b8bbe4b4" />
 
@@ -10,6 +10,12 @@
 If you're Mac users, you've probably experienced this frustration: you click on an app in your dock expecting to hide it or get it out of your way. However, it just cluttering your workspace.
 
 **HideNSeek** – a menu bar app that change how you interact with your dock.
+
+## Live Demo 
+**(HideNSeek + Deeper & Last Window Quits)**
+
+https://github.com/user-attachments/assets/086bd7a1-c25d-42c5-a546-bb5a42d061fa
+
 
 ## The Problem Every Mac User Faces
 
