@@ -1,5 +1,7 @@
 # HideNSeek: Show And Hide at Ease
 
+![Latest Release](https://img.shields.io/github/v/release/willweimike/HideNSeek?display_name=tag&label=Latest%20Release&sort=semver) ![Downloads](https://img.shields.io/github/downloads/willweimike/HideNSeek/total?label=Downloads)
+
 > Because I am a student, I could not afford the fee of Apple Developer, so the binary is not code-signed, I am sorry.
 
 <img width="256" height="256" alt="my-image" src="https://github.com/user-attachments/assets/2f5a5839-679c-47b2-b746-d5a8b8bbe4b4" />
