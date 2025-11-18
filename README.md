@@ -1,4 +1,4 @@
-# HideNSeek: Show And Hide at Ease
+# HideNSeek: Show and Hide at Ease
 
 ![Latest Release](https://img.shields.io/github/v/release/willweimike/HideNSeek?display_name=tag&label=Latest%20Release&sort=semver) ![Downloads](https://img.shields.io/github/downloads/willweimike/HideNSeek/total?label=Downloads)
 
